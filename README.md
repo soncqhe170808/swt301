@@ -1,2 +1,2 @@
 # swt301
-sonarcloudTest
+sample
